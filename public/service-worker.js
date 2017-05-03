@@ -1,5 +1,5 @@
-// Set this to true for production
-var doCache = false;
+// Set this to true for production (deployment)
+var doCache = true;
 
 // Name our cache
 var CACHE_NAME = 'my-pwa-cache-v1';
